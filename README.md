@@ -46,3 +46,5 @@ Initial load times can take a bit due to the transfer speed of the Joey 64 so la
 12: Repeat with any game desired!
 
 This batch file wouldn't exist without the Joey 64 from Benn Venn (https://bennvenn.myshopify.com/products/joeyn64-cart-flasher) and the ra_mp64_srm_convert program from @drehren (https://github.com/drehren/ra_mp64_srm_convert)!
+
+Any suggestions to making setup easier are greatly welcomed!
