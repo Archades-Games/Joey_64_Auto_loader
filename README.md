@@ -6,7 +6,7 @@ Since this is my first attempt at this type of batch file, it likely isn't as se
 
 Video Guide:
 
-1: Install Retroarch and download the Mupen 64 Plus Next core from the online updater.
+1: Install Retroarch (https://retroarch.com/?page=platforms) and download the Mupen 64 Plus Next core from the online updater.
 
 2: Add your Retroarch directory to your Windows PATH entries. Using the run command (Win+R) load (rundll32.exe sysdm.cpl,EditEnvironmentVariables) and under User Variables for (your current user name) double click on Path. Inside the Environment variable list click on New and paste the directory for your Retro arch folder containing the Retroarch exe. The easiest way to do so is to right-click retroarch.exe, select properties, and copy the entirety of the location field. once added to the Path click OK and close out of it.
 
