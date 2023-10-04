@@ -4,7 +4,7 @@ The purpose of this batch file is to load physical N64 games and their saves dir
 
 Since this is my first attempt at this type of batch file, it likely isn't as seamless as it could be so here are the current setup steps.
 
-Video Guide:
+Video Guide: https://youtu.be/nlipm6DUe2Q
 
 1: Install Retroarch (https://retroarch.com/?page=platforms) and download the Mupen 64 Plus Next core from the online updater.
 
