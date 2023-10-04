@@ -30,7 +30,7 @@ Zed Labz (Europe): https://www.zedlabz.com/collections/retro-nintendo-n64/produc
 
 "Drive Letter To Your Joey 64" = The assigned drive letter Windows gave your Joey 64. Replace everything in quotations with the single drive letter assigned (Example: E) I left the rest of the formatting in place to make it easier.
 
-"Path To Your Joey Auto Loader Folder" = The directory you have your Joey_64_Auto_loader folder. The easiest way to populate the field is to right-click on the bat file, select properties, and copy the location field. Replace the quotes and everything within with this copied directory.
+"Path To Your Joey Auto Loader Folder" = The directory you have your Joey_64_Auto_loader folder. The easiest way to populate the field is to right-click on the Joey_64_Auto_loader folder, select properties, and copy the location field. Replace the quotes and everything within with this copied directory.
 
 "Path To Your Retroarch Directory" = The directory you have Retroarch installed. The easiest way to do so is to right-click retroarch.exe, select properties, and copy the entirety of the location field. Replace the quotes and everything within with this copied directory.
 
@@ -48,3 +48,9 @@ Initial load times can take a bit due to the transfer speed of the Joey 64 so la
 This batch file wouldn't exist without the Joey 64 from Benn Venn (https://bennvenn.myshopify.com/products/joeyn64-cart-flasher) and the ra_mp64_srm_convert program from @drehren (https://github.com/drehren/ra_mp64_srm_convert)!
 
 Any suggestions to making setup easier are greatly welcomed!
+
+Future Update Plans:
+1: Linux Support
+2: Controller Pak Saves Support
+3: A Nice GUI
+4: Possibly Support Other Emulators Like Simple 64 or Project 64
